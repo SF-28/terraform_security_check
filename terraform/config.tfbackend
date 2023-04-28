@@ -1,0 +1,4 @@
+bucket  = "dx-terraformed"
+key     = "jaws_oita/lt/terraform.tfstate"
+region  = "ap-northeast-1"
+profile = "default"
