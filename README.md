@@ -6,6 +6,20 @@ marp: true
 
 ---
 
+## 自己紹介
+
+藤田　章吾 （@SF-28）
+
+株式会社オーイーシー
+
+DXデザインGr
+
+AI、AWS
+
+![bg right](./imgs/icon_square.png)
+
+---
+
 ## [Terraform](https://github.com/hashicorp/terraform)
 
 - IaC (Infrastructure as Code)
